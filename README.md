@@ -34,7 +34,6 @@
 
 Корень проекта:
 
-```text
 room-booking/
   pom.xml
   src/
@@ -65,7 +64,6 @@ room-booking/
     test/
       java/com/example/roombooking/booking/
         BookingServiceTest.java
-```text
 
 ---
 
@@ -104,4 +102,4 @@ room-booking/
 
 ```bash
 mvn clean test
-mvn spring-boot:run```
+mvn spring-boot:run
