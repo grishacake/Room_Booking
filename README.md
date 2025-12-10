@@ -64,7 +64,7 @@ room-booking/
         application.yml
     test/
       java/com/example/roombooking/booking/
-        BookingServiceTest.java
+        BookingServiceTest.java```
 
 ---
 
@@ -103,4 +103,4 @@ room-booking/
 
 ```bash
 mvn clean test
-mvn spring-boot:run
+mvn spring-boot:run```
