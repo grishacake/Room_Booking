@@ -64,7 +64,8 @@ room-booking/
         application.yml
     test/
       java/com/example/roombooking/booking/
-        BookingServiceTest.java```
+        BookingServiceTest.java
+```text
 
 ---
 
