@@ -1,0 +1,12 @@
+com/example/roombooking/model/Room.class
+com/example/roombooking/config/GlobalExceptionHandler.class
+com/example/roombooking/booking/BookingConflictException.class
+com/example/roombooking/booking/BookingService.class
+com/example/roombooking/booking/BookingRequest.class
+com/example/roombooking/room/RoomRepository.class
+com/example/roombooking/RoomBookingApplication.class
+com/example/roombooking/model/Equipment.class
+com/example/roombooking/model/Booking.class
+com/example/roombooking/booking/BookingRepository.class
+com/example/roombooking/equipment/EquipmentRepository.class
+com/example/roombooking/booking/BookingController.class
